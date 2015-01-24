@@ -1,0 +1,4 @@
+abhinav/hadoop/invertedindex/IIMapper.class
+abhinav/hadoop/invertedindex/IIReducer.class
+abhinav/hadoop/invertedindex/InvertedIndex.class
+abhinav/hadoop/invertedindex/RegexFilter.class
